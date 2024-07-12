@@ -27,13 +27,13 @@ pip install customtkinter tqdm
 1. **Clone the Repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/Associable/obfuscator>
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd <https://github.com/Associable/obfuscator>
+    cd idk ur project directory
     ```
 
 3. **Install Required Packages:**
