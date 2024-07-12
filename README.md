@@ -33,7 +33,7 @@ pip install customtkinter tqdm
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd <project-directory>
+    cd <https://github.com/Associable/obfuscator>
     ```
 
 3. **Install Required Packages:**
